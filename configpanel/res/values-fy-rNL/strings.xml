@@ -16,11 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- O-Touch settings -->
-  <!-- Gesture shortcuts -->
+  <string name="app_name">Avansearre ynstellingen</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
-  <!-- O-Click settings -->
-  <!-- O-Click notification -->
-  <!-- Button settings -->
-  <!-- Notification slider -->
 </resources>

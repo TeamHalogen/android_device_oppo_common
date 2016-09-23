@@ -16,20 +16,24 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- O-Touch settings -->
+  <string name="app_name">Speciális beállítások</string>
   <string name="touchpad_enable_title">O-Touch engedélyezése</string>
   <string name="touchpad_enable_summary">Telefon navigálása hátsó touchpad-dal</string>
   <string name="touchpad_long_press_title">Kamera indítása hosszan nyomva tartással</string>
   <string name="touchpad_long_press_summary">Kamera alkalmazás indítása a touchpad hosszan nyomva tartással</string>
   <string name="touchpad_double_tap_title">Kép készítése dupla érintéssel</string>
   <string name="touchpad_double_tap_summary">A kamera alkalmazás futása esetén kép készítése dupla érintéssel</string>
-  <!-- Gesture shortcuts -->
+  <string name="touchscreen_double_tap_gesture_title">Eszköz felébresztése</string>
+  <string name="touchscreen_double_tap_gesture_summary">Dupla érintés felébreszti az eszközt</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Rajzoljon egy kört a kamera aktiválásához</string>
   <string name="touchscreen_music_gesture_title">Zene</string>
   <string name="touchscreen_flashlight_gesture_title">Zseblámpa</string>
   <string name="touchscreen_flashlight_gesture_summary">Rajzoljon egy \"V\" betűt a zseblámpához</string>
-  <!-- O-Click settings -->
+  <string name="touchscreen_music_gesture_summary">Használja a kézmozdulatokat zene vezérléséhez\n
+    • Két ujjal függőlegesen lejátszás/szünet\n
+    • Balra nyíl előző szám\n
+    • Jobbra nyíl következő szám</string>
   <string name="oclick_connect_string">Csatlakozás</string>
   <string name="oclick_disconnect_string">Lecsatlakozás</string>
   <string name="oclick_summary_connected">Csatlakoztatva az O-Clickhez</string>
@@ -45,24 +49,12 @@
   <string name="oclick_disconnect_alert_summary">Riasztás, ha nem elérhető</string>
   <string name="alert_category_title">Riasztások</string>
   <string name="action_category_title">Műveletek</string>
-  <!-- O-Click notification -->
   <string name="oclick_locator_notification_title">O-Click telefon kereső</string>
   <string name="oclick_locator_notification_text">Lokátor figyelmeztetés lejátszása folyamatban. Érintse meg a megszakításhoz</string>
   <string name="oclick_notification_title_connected">O-Click csatlakoztatva</string>
   <string name="oclick_notification_title_disconnected">O-Click leválasztva</string>
   <string name="oclick_notification_content_disconnected">Érintse meg az O-Click gombot az újracsatlakozáshoz</string>
-  <!-- Button settings -->
-  <string name="button_panel_title">További gombok</string>
-  <string name="button_swap_title">Gombok felcserélése</string>
-  <string name="button_swap_summary">Az előzmények és a vissza gomb sorrendjének felcserélése</string>
-  <!-- Notification slider -->
-  <string name="notification_slider_category_title">Értesítési csúszka</string>
-  <string name="notification_slider_selection_dialog_title">Művelet</string>
-  <string name="notification_slider_top_position">Felső pozíció</string>
-  <string name="notification_slider_middle_position">Középső pozíció</string>
-  <string name="notification_slider_bottom_position">Alsó pozíció</string>
-  <string name="notification_slider_mode_total_silence">Teljes csend</string>
-  <string name="notification_slider_mode_alarms_only">Csak riasztások</string>
-  <string name="notification_slider_mode_priority_only">Csak prioritásos</string>
-  <string name="notification_slider_mode_none">Egy sem</string>
+  <string name="touchscreen_extras">Extrák</string>
+  <string name="haptic_feedback">Érintési visszajelzés</string>
+  <string name="haptic_feedback_summary">Rezeg, mikor egy gesztus érzékelésre kerül</string>
 </resources>
